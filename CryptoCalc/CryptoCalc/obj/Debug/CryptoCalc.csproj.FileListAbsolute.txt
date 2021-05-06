@@ -1,0 +1,11 @@
+C:\Projects\CryptoCalc\CryptoCalc\bin\Debug\CryptoCalc.exe.config
+C:\Projects\CryptoCalc\CryptoCalc\bin\Debug\CryptoCalc.exe
+C:\Projects\CryptoCalc\CryptoCalc\bin\Debug\CryptoCalc.pdb
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.Form1.resources
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.Properties.Resources.resources
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.csproj.GenerateResource.cache
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.csproj.CoreCompileInputs.cache
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.exe
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.pdb
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.Form2.resources
+C:\Projects\CryptoCalc\CryptoCalc\obj\Debug\CryptoCalc.csprojAssemblyReference.cache
